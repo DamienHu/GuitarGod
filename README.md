@@ -8,8 +8,11 @@
 - Adam
 - Damien
 
+<video autoplay loop muted playsinline width="600" controls>
+  <source src="https://github.com/user-attachments/assets/ff47bc9f-14c5-4377-b974-f4a20d9ef6ca" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
-https://github.com/user-attachments/assets/ff47bc9f-14c5-4377-b974-f4a20d9ef6ca
 
 
 ---
