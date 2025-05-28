@@ -1,5 +1,7 @@
 # GuitarTechnicalProject
 # Project Proposal: CMPE2965_A03
+<img src="https://github.com/user-attachments/assets/65ea2ea1-7391-4f81-a139-f2a982342bda" alt="Description" width="300">
+<img src="[https://github.com/user-attachments/assets/65ea2ea1-7391-4f81-a139-f2a982342bda](https://github.com/user-attachments/assets/d3d890c2-3ae0-4fde-91ee-ad2b5e231c08" alt="Description" width="300">
 ![20250409_115042](https://github.com/user-attachments/assets/65ea2ea1-7391-4f81-a139-f2a982342bda)
 ![20250424_153928](https://github.com/user-attachments/assets/d3d890c2-3ae0-4fde-91ee-ad2b5e231c08)
 
